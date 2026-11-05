@@ -1,0 +1,145 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: GatewaySpring
+
+  cloud:
+    gateway:
+      server:
+        webflux:
+          routes:
+
+            # DOCUMENTACION OPENAPI DE CADA MICROSERVICIO
+            - id: openapi-producto
+              uri: http://localhost:8083
+              predicates:
+                - Path=/v3/api-docs/producto
+              filters:
+                - SetPath=/v3/api-docs
+
+            - id: openapi-carrito
+              uri: http://localhost:8082
+              predicates:
+                - Path=/v3/api-docs/carrito
+              filters:
+                - SetPath=/v3/api-docs
+
+            - id: openapi-inventario
+              uri: http://localhost:8084
+              predicates:
+                - Path=/v3/api-docs/inventario
+              filters:
+                - SetPath=/v3/api-docs
+
+            - id: openapi-despacho
+              uri: http://localhost:8085
+              predicates:
+                - Path=/v3/api-docs/despacho
+              filters:
+                - SetPath=/v3/api-docs
+
+            - id: openapi-pedidos
+              uri: http://localhost:8086
+              predicates:
+                - Path=/v3/api-docs/pedidos
+              filters:
+                - SetPath=/v3/api-docs
+
+            - id: openapi-pago
+              uri: http://localhost:8087
+              predicates:
+                - Path=/v3/api-docs/pago
+              filters:
+                - SetPath=/v3/api-docs
+
+            # Usuarios: documentacion pendiente de verificar contra el proyecto real.
+            - id: openapi-usuarios
+              uri: http://localhost:8081
+              predicates:
+                - Path=/v3/api-docs/usuarios
+              filters:
+                - SetPath=/v3/api-docs
+
+
+            # PRODUCTO (8083)
+            - id: producto
+              uri: http://localhost:8083
+              predicates:
+                - Path=/api/v1/productos/**,/api/v1/categorias/**
+
+            # CARRITO (8082)
+            - id: carrito
+              uri: http://localhost:8082
+              predicates:
+                - Path=/api/v1/carritos/**
+
+            # INVENTARIO (8084)
+            - id: inventario
+              uri: http://localhost:8084
+              predicates:
+                - Path=/api/v1/inventario/**
+
+            # DESPACHO (8085)
+            - id: despacho
+              uri: http://localhost:8085
+              predicates:
+                - Path=/api/v1/despachos/**
+
+            # PEDIDOS (8086)
+            - id: pedidos
+              uri: http://localhost:8086
+              predicates:
+                - Path=/api/v1/pedidos/**
+
+            # PAGO (8087)
+            - id: pago
+              uri: http://localhost:8087
+              predicates:
+                - Path=/api/v1/pagos/**
+
+            # USUARIOS (8081) - RUTA PROVISIONAL
+            # El ZIP recibido no incluye ServiceUsuarios. Esta ruta usa un prefijo público
+            # /usuarios/** y elimina ese primer segmento antes de reenviar la solicitud.
+            # Ejemplo: /usuarios/api/v1/clientes -> http://localhost:8081/api/v1/clientes
+            - id: usuarios
+              uri: http://localhost:8081
+              predicates:
+                - Path=/usuarios/**
+              filters:
+                - StripPrefix=1
+
+# Swagger UI centralizado.
+# Cada URL de documentación se enruta abajo hacia el /v3/api-docs de su microservicio.
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    path: /swagger-ui.html
+    urls:
+      - name: Producto
+        url: /v3/api-docs/producto
+      - name: Carrito
+        url: /v3/api-docs/carrito
+      - name: Inventario
+        url: /v3/api-docs/inventario
+      - name: Despacho
+        url: /v3/api-docs/despacho
+      - name: Pedidos
+        url: /v3/api-docs/pedidos
+      - name: Pago
+        url: /v3/api-docs/pago
+      - name: Usuarios
+        url: /v3/api-docs/usuarios
+    urls-primary-name: Producto
+
+# Actuator para comprobar que el Gateway está levantado.
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: always

@@ -9,8 +9,16 @@ spring:
     gateway:
       server:
         webflux:
-          routes:
-
+          globalcors:
+            cors-configurations:
+              '[/**]':
+                allowedOriginPatterns: "http://localhost:5173"
+                allowedMethods: [GET, POST, PUT, PATCH, DELETE, OPTIONS]
+                allowedHeaders: "*"
+          default-filters:
+            # evita cabeceras CORS duplicadas cuando el microservicio también responde con @CrossOrigin
+            - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_FIRST
+          routes: 
             # DOCUMENTACION OPENAPI DE CADA MICROSERVICIO
             - id: openapi-producto
               uri: http://localhost:8083

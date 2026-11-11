@@ -1,0 +1,18 @@
+[
+  {
+    "correo": "alberto@perez.cl",
+    "contrasena": "ClienteDemo2026!",
+    "nombre": "Alberto",
+    "apellido": "Perez",
+    "rut": "22200001-7",
+    "telefono": ""
+  },
+  {
+    "correo": "roberto@perez.cl",
+    "contrasena": "ClienteDemo2026!",
+    "nombre": "Roberto",
+    "apellido": "Perez",
+    "rut": "22200002-5",
+    "telefono": ""
+  }
+]

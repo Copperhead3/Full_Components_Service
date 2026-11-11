@@ -1,0 +1,779 @@
+[
+  {
+    "nombreProducto": "Intel Core i5-14600KF",
+    "marca": "Intel",
+    "modelo": "BX8071514600KF",
+    "descripcion": "Procesador Intel Core i5-14600KF para socket LGA 1700.",
+    "precioVigente": 264990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 1
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Intel Core i5-14600KF/1831674_picture_1707949175.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "3500–5300 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 1
+        }
+      },
+      {
+        "valor": "6 P-cores / 8 E-cores / 20 hilos",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 2
+        }
+      },
+      {
+        "valor": "LGA 1700",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 3
+        }
+      },
+      {
+        "valor": "20 MB L2 / 24 MB L3",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 4
+        }
+      },
+      {
+        "valor": "Intel Raptor Lake-S Refresh",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Intel Core i7-14700K",
+    "marca": "Intel",
+    "modelo": "BX8071514700K",
+    "descripcion": "Procesador Intel Core i7-14700K para socket LGA 1700.",
+    "precioVigente": 447980,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 1
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Intel Core i7-14700K/1831699_picture_1707949353.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "3400–5600 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 1
+        }
+      },
+      {
+        "valor": "8 P-cores / 12 E-cores / 28 hilos",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 2
+        }
+      },
+      {
+        "valor": "LGA 1700",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 3
+        }
+      },
+      {
+        "valor": "20 × 2 MB L2 / 33 MB L3",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 4
+        }
+      },
+      {
+        "valor": "Intel Raptor Lake-S Refresh",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Intel Core i9-14900KS",
+    "marca": "Intel",
+    "modelo": "BX8071514900KS",
+    "descripcion": "Procesador Intel Core i9-14900KS para socket LGA 1700.",
+    "precioVigente": 849000,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 1
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Intel Core i9-14900KS/1831756_picture_1707949314.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "3200–6200 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 1
+        }
+      },
+      {
+        "valor": "8 P-cores / 16 E-cores / 32 hilos",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 2
+        }
+      },
+      {
+        "valor": "LGA 1700",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 3
+        }
+      },
+      {
+        "valor": "24 × 2 MB L2 / 36 MB L3",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 4
+        }
+      },
+      {
+        "valor": "Intel Raptor Lake-S Refresh",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 5
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6",
+    "marca": "ASUS",
+    "modelo": "Dual Radeon RX 7600 EVO OC Edition",
+    "descripcion": "Tarjeta gráfica ASUS Dual Radeon RX 7600 EVO OC Edition con 8 GB GDDR6.",
+    "precioVigente": 318870,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 2
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6/2055806_picture_1743427648.webp",
+        "formato": "webp",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "AMD Radeon RX 7600",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 6
+        }
+      },
+      {
+        "valor": "8 GB GDDR6 (128 bit)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 7
+        }
+      },
+      {
+        "valor": "1720 / 2655 / 2715 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 8
+        }
+      },
+      {
+        "valor": "2250 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 9
+        }
+      },
+      {
+        "valor": "PCI Express 4.0 x8",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 10
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "ASUS Prime Radeon RX 9070 XT OC Edition 16GB",
+    "marca": "ASUS",
+    "modelo": "Prime Radeon RX 9070 XT OC Edition",
+    "descripcion": "Tarjeta gráfica ASUS Prime Radeon RX 9070 XT OC Edition con 16 GB GDDR6.",
+    "precioVigente": 847990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 2
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/ASUS Prime Radeon RX 9070 XT OC Edition 16GB/2087610_picture_1747988354.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "AMD Radeon RX 9070 XT",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 6
+        }
+      },
+      {
+        "valor": "16 GB GDDR6 (256 bit)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 7
+        }
+      },
+      {
+        "valor": "2400 / 2970 / 3030 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 8
+        }
+      },
+      {
+        "valor": "2518 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 9
+        }
+      },
+      {
+        "valor": "PCI Express 5.0 x16",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 10
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Gigabyte GeForce RTX 5090 GAMING OC 32G",
+    "marca": "Gigabyte",
+    "modelo": "GAMING OC 32G",
+    "descripcion": "Tarjeta gráfica Gigabyte GeForce RTX 5090 GAMING OC con 32 GB GDDR7.",
+    "precioVigente": 4289995,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 2
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Gigabyte GeForce RTX 5090 GAMING OC 32G/2057307_picture_1743591149.webp",
+        "formato": "webp",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "NVIDIA GeForce RTX 5090",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 6
+        }
+      },
+      {
+        "valor": "32 GB GDDR7 (512 bit)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 7
+        }
+      },
+      {
+        "valor": "2017 / 2407 / 2550 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 8
+        }
+      },
+      {
+        "valor": "875 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 9
+        }
+      },
+      {
+        "valor": "PCI Express 5.0 x16",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 10
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC",
+    "marca": "MSI",
+    "modelo": "G507T-16GTC",
+    "descripcion": "Tarjeta gráfica MSI GeForce RTX 5070 Ti GAMING TRIO OC con 16 GB GDDR7.",
+    "precioVigente": 1199900,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 2
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC/2545160_picture_1757411992.png",
+        "formato": "png",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "NVIDIA GeForce RTX 5070 Ti",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 6
+        }
+      },
+      {
+        "valor": "16 GB GDDR7 (256 bit)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 7
+        }
+      },
+      {
+        "valor": "2300 / 2452 / 2580 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 8
+        }
+      },
+      {
+        "valor": "875 MHz",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 9
+        }
+      },
+      {
+        "valor": "PCI Express 5.0 x16",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 10
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "A-DATA XPG Lancer Blade RGB (1 × 8 GB DDR5-5600)",
+    "marca": "A-DATA",
+    "modelo": "AX5U5600C46BG-SLABRK",
+    "descripcion": "Módulo de memoria A-DATA XPG Lancer Blade RGB DDR5 de 8 GB.",
+    "precioVigente": 125000,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 3
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/A-DATA XPG Lancer Blade RGB (1 x 8 GB  DIMM DDR5-5600)/1926060_picture_1718382530.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "1 × 8 GB",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 11
+        }
+      },
+      {
+        "valor": "DDR5",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 12
+        }
+      },
+      {
+        "valor": "5600 MT/s",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 13
+        }
+      },
+      {
+        "valor": "DIMM",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 14
+        }
+      },
+      {
+        "valor": "1.35 V",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 15
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Kingston Fury Beast (1 × 16 GB DDR5-6400)",
+    "marca": "Kingston",
+    "modelo": "KF564C32BBE-16",
+    "descripcion": "Módulo de memoria Kingston Fury Beast DDR5 de 16 GB.",
+    "precioVigente": 301990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 3
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Kingston Fury Beast (1 x 16 GB  DIMM DDR5-6400)/1962332_picture_1733757849.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "1 × 16 GB",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 11
+        }
+      },
+      {
+        "valor": "DDR5",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 12
+        }
+      },
+      {
+        "valor": "6400 MT/s",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 13
+        }
+      },
+      {
+        "valor": "DIMM",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 14
+        }
+      },
+      {
+        "valor": "1.40 V",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 15
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Kingston NV3 1 TB",
+    "marca": "Kingston",
+    "modelo": "SNV3S/1000G",
+    "descripcion": "Unidad de estado sólido Kingston NV3 de 1 TB, formato M.2 2280.",
+    "precioVigente": 152290,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 4
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Kingston NV3 1 TB/1948236_picture_1724531834.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "1 TB",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 16
+        }
+      },
+      {
+        "valor": "M.2 (2280)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 17
+        }
+      },
+      {
+        "valor": "PCIe 4.0 x4",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 18
+        }
+      },
+      {
+        "valor": "No",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 19
+        }
+      },
+      {
+        "valor": "NAND QLC",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 20
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Transcend 512 GB",
+    "marca": "Transcend",
+    "modelo": "TS512GMTE712A-VS1",
+    "descripcion": "Unidad de estado sólido Transcend de 512 GB, formato M.2 2280.",
+    "precioVigente": 75990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 4
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Transcend 512 GB/2334322.png",
+        "formato": "png",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "512 GB",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 16
+        }
+      },
+      {
+        "valor": "M.2 (2280)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 17
+        }
+      },
+      {
+        "valor": "PCIe 4.0 x4",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 18
+        }
+      },
+      {
+        "valor": "Sí",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 19
+        }
+      },
+      {
+        "valor": "NAND desconocido",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 20
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Cougar FV150 RGB - White",
+    "marca": "Cougar",
+    "modelo": "385KA10.0002",
+    "descripcion": "Gabinete Cougar FV150 RGB blanco con panel lateral de vidrio templado.",
+    "precioVigente": 66990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 5
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Cougar FV150 RGB - White/1970623_picture_1729359313.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "ATX",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 21
+        }
+      },
+      {
+        "valor": "RGB programable (ARGB / 3-pin / 5V)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 22
+        }
+      },
+      {
+        "valor": "No posee",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 23
+        }
+      },
+      {
+        "valor": "Inferior",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 24
+        }
+      },
+      {
+        "valor": "Vidrio templado",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 25
+        }
+      },
+      {
+        "valor": "4 × 120 mm",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 26
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "XYZ Neutron X Pro - Black",
+    "marca": "XYZ",
+    "modelo": "X-CS-NEUTRONXP-B",
+    "descripcion": "Gabinete XYZ Neutron X Pro negro con panel lateral de vidrio templado.",
+    "precioVigente": 149995,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 5
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/XYZ Neutron X Pro - Black/2795960_picture_1784556386.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "ATX",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 21
+        }
+      },
+      {
+        "valor": "RGB programable (ARGB / 3-pin / 5V)",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 22
+        }
+      },
+      {
+        "valor": "No posee",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 23
+        }
+      },
+      {
+        "valor": "Lateral",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 24
+        }
+      },
+      {
+        "valor": "Vidrio templado",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 25
+        }
+      },
+      {
+        "valor": "5 × 120 mm",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 26
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "ASUS Prime 850W Gold",
+    "marca": "ASUS",
+    "modelo": "AP-850G / 90YE000U-B0AA00",
+    "descripcion": "Fuente de poder ASUS Prime 850W Gold modular.",
+    "precioVigente": 97990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 6
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/ASUS Prime 850W Gold/1959832_picture_1726393017.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "850 W",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 27
+        }
+      },
+      {
+        "valor": "80PLUS Gold",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 28
+        }
+      },
+      {
+        "valor": "12V 70 A",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 29
+        }
+      },
+      {
+        "valor": "Sí",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 30
+        }
+      },
+      {
+        "valor": "Sí",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 31
+        }
+      }
+    ]
+  },
+  {
+    "nombreProducto": "Corsair RMe Series RM750e 2025",
+    "marca": "Corsair",
+    "modelo": "CP-9020295-NA",
+    "descripcion": "Fuente de poder Corsair RMe Series RM750e 2025 modular.",
+    "precioVigente": 99990,
+    "estado": "PUBLICADO",
+    "categoria": {
+      "idCategoria": 6
+    },
+    "imagenes": [
+      {
+        "url": "img/productos/Corsair RMe Series RM750e 2025/2018728_picture_1739543341.jpg",
+        "formato": "jpg",
+        "orden": 0,
+        "esPrincipal": true
+      }
+    ],
+    "especificaciones": [
+      {
+        "valor": "750 W",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 27
+        }
+      },
+      {
+        "valor": "80PLUS Gold",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 28
+        }
+      },
+      {
+        "valor": "12V 54.2 A",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 29
+        }
+      },
+      {
+        "valor": "Sí",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 30
+        }
+      },
+      {
+        "valor": "Sí",
+        "definicionAtributo": {
+          "idDefinicionAtributo": 31
+        }
+      }
+    ]
+  }
+]

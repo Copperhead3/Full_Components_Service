@@ -1,0 +1,92 @@
+[
+  {
+    "idProducto": 1,
+    "cantidadFisica": 4,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 2,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 3,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 4,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 5,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 6,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 7,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 8,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 9,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 10,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 11,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 12,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 13,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 14,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  },
+  {
+    "idProducto": 15,
+    "cantidadFisica": 5,
+    "cantidadReservada": 0,
+    "stockMinimo": 2
+  }
+]

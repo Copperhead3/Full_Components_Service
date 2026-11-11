@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "idOriginal": 1,
+      "categoria": "Procesadores"
+    },
+    {
+      "idOriginal": 2,
+      "categoria": "Procesadores"
+    },
+    {
+      "idOriginal": 3,
+      "categoria": "Procesadores"
+    },
+    {
+      "idOriginal": 4,
+      "categoria": "Tarjetas gráficas"
+    },
+    {
+      "idOriginal": 5,
+      "categoria": "Tarjetas gráficas"
+    },
+    {
+      "idOriginal": 6,
+      "categoria": "Tarjetas gráficas"
+    },
+    {
+      "idOriginal": 7,
+      "categoria": "Tarjetas gráficas"
+    },
+    {
+      "idOriginal": 8,
+      "categoria": "Memorias RAM"
+    },
+    {
+      "idOriginal": 9,
+      "categoria": "Memorias RAM"
+    },
+    {
+      "idOriginal": 10,
+      "categoria": "Almacenamiento"
+    },
+    {
+      "idOriginal": 11,
+      "categoria": "Almacenamiento"
+    },
+    {
+      "idOriginal": 12,
+      "categoria": "Gabinetes"
+    },
+    {
+      "idOriginal": 13,
+      "categoria": "Gabinetes"
+    },
+    {
+      "idOriginal": 14,
+      "categoria": "Fuentes de poder"
+    },
+    {
+      "idOriginal": 15,
+      "categoria": "Fuentes de poder"
+    }
+  ]
+}

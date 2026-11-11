@@ -1,0 +1,312 @@
+[
+  {
+    "categoria": {
+      "idCategoria": 1
+    },
+    "clave": "frecuencia",
+    "nombreAtributo": "Frecuencia",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 1
+    },
+    "clave": "nucleos_hilos",
+    "nombreAtributo": "Núcleos / hilos",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 1
+    },
+    "clave": "socket",
+    "nombreAtributo": "Socket",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 1
+    },
+    "clave": "cache",
+    "nombreAtributo": "Caché",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 1
+    },
+    "clave": "arquitectura",
+    "nombreAtributo": "Arquitectura",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 2
+    },
+    "clave": "gpu",
+    "nombreAtributo": "GPU",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 2
+    },
+    "clave": "memoria",
+    "nombreAtributo": "Memoria",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 2
+    },
+    "clave": "frecuencia_core_base_boost_oc",
+    "nombreAtributo": "Frecuencia core (base / boost / OC)",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 2
+    },
+    "clave": "frecuencia_memorias",
+    "nombreAtributo": "Frecuencia memorias",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 2
+    },
+    "clave": "bus",
+    "nombreAtributo": "Bus",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 3
+    },
+    "clave": "capacidad",
+    "nombreAtributo": "Capacidad",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 3
+    },
+    "clave": "tipo",
+    "nombreAtributo": "Tipo",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 3
+    },
+    "clave": "velocidad",
+    "nombreAtributo": "Velocidad",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 3
+    },
+    "clave": "formato",
+    "nombreAtributo": "Formato",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 3
+    },
+    "clave": "voltaje",
+    "nombreAtributo": "Voltaje",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 4
+    },
+    "clave": "capacidad",
+    "nombreAtributo": "Capacidad",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 4
+    },
+    "clave": "formato",
+    "nombreAtributo": "Formato",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 4
+    },
+    "clave": "bus",
+    "nombreAtributo": "Bus",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 4
+    },
+    "clave": "posee_dram",
+    "nombreAtributo": "¿Posee DRAM?",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 4
+    },
+    "clave": "tipo_de_memoria",
+    "nombreAtributo": "Tipo de memoria",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "formato",
+    "nombreAtributo": "Formato",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "iluminacion",
+    "nombreAtributo": "Iluminación",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "fuente_de_poder",
+    "nombreAtributo": "Fuente de poder",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "ubicacion_fuente_de_poder",
+    "nombreAtributo": "Ubicación fuente de poder",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "panel_lateral",
+    "nombreAtributo": "Panel lateral",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 5
+    },
+    "clave": "ventiladores_incluidos",
+    "nombreAtributo": "Ventiladores incluidos",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 6
+    },
+    "clave": "potencia",
+    "nombreAtributo": "Potencia",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 6
+    },
+    "clave": "certificacion",
+    "nombreAtributo": "Certificación",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 6
+    },
+    "clave": "corriente",
+    "nombreAtributo": "Corriente",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 6
+    },
+    "clave": "modular",
+    "nombreAtributo": "Modular",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  },
+  {
+    "categoria": {
+      "idCategoria": 6
+    },
+    "clave": "pfc_activo",
+    "nombreAtributo": "PFC activo",
+    "tipoDato": "TEXTO",
+    "unidad": null,
+    "filtrable": true
+  }
+]
